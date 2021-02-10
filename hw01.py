@@ -23,4 +23,4 @@ for i in range(list_length):
 for i in range(list_length):
     if sorted_list[i] % 2 == 1: odd_sum = odd_sum + sorted_list[i]
 print("The sum of even numbers:", even_sum)
-print("The sum of odd numbers:", odd_sum)
+print("The sum of odd numbers:", odd_sum) # test
